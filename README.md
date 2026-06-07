@@ -1,4 +1,3 @@
-README.md
 # Machine Learning Datasets Collection
 
 A curated collection of standard and popular datasets commonly used for training, benchmarking, and experimenting with Machine Learning and Deep Learning models. This repository serves as a centralized, easily accessible data source for various ML tasks including regression, classification, and exploratory data analysis (EDA).
